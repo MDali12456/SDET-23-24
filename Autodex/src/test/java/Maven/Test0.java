@@ -7,7 +7,7 @@ public class Test0 {
 	public void Test0() {
 		System.out.println("hello");
 		
-		System.out.println("hii");
+		System.out.println("java sel");
 	}
 
 }
