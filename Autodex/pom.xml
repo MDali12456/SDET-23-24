@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>Github</groupId>
-  <artifactId>github</artifactId>
+  <groupId>Com.crm.Autodex</groupId>
+  <artifactId>Autodex</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-    <properties>
+  <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
   <maven.compiler.target>1.8</maven.compiler.target>
   
@@ -19,7 +19,10 @@
     <artifactId>testng</artifactId>
     <version>7.4.0</version>
     
+
+    <!-- remove scope in testng dependency -->
 </dependency>
+  
   
   
    </dependencies>
@@ -71,13 +74,5 @@
    
    
    </profiles>
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
 </project>
