@@ -16,7 +16,7 @@ public class Test1 {
 			
 		}
 if(temp==sum)
-	System.out.println("Number is Armstrong");
+	System.out.println("Number is a Armstrong");
 else {
 	System.out.println("Not an Armstrong");
 }
